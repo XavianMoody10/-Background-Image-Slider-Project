@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#flex-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#flex-section h2 {
+  font-size: 5rem;
+  margin-bottom: 20px;
+}
+
+#image-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#image-content img {
+  object-fit: fill;
+  height: 200px;
+  width: 300px;
+  border: 5px solid rgb(32, 211, 41);
+  margin: 0 30px;
+}
