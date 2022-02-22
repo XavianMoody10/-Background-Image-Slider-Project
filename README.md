@@ -1,4 +1,7 @@
 # -Background-Image-Slider-Project
+Technolgies used: HTML, CSS Javascript
+
+Started 2/19/22 - Completed 2/19/22
 
 What You Should See
 A default image should be displayed when you load the page.
